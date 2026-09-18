@@ -110,7 +110,7 @@ python3 model/train.py
 ```
 
 ### 4. Launch Streamlit Web Dashboard
-You can access the live deployed app directly at **[cusomer-churn-predictor.streamlit.app](https://cusomer-churn-predictor.streamlit.app/)**, or launch it locally:
+You can access the live deployed app directly at **[customer-churn-predictor.streamlit.app](https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app//)**, or launch it locally:
 ```bash
 streamlit run app.py
 ```
