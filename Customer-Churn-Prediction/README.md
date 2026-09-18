@@ -1,6 +1,6 @@
 # Customer Churn Analysis & Prediction Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cusomer-churn-predictor.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app/)
 
 > 🚀 **Live Interactive App:** [https://cusomer-churn-predictor.streamlit.app/](https://cusomer-churn-predictor.streamlit.app/)
 
