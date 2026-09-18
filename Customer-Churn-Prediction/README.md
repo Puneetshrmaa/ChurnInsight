@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app/)
 
-> 🚀 **Live Interactive App:** [https://cusomer-churn-predictor.streamlit.app/](https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app/)
+> 🚀 **Live Interactive App:** [https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app/](https://churninsight-wupyp6drrgczpn99ynduzr.streamlit.app/)
 
 This repository contains a comprehensive, end-to-end data analysis and machine learning pipeline to understand, analyze, and predict customer churn in a subscription business (telecom provider).
 
